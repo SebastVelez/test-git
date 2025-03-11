@@ -3,6 +3,6 @@ git init
 
 
 
-1. git add  permite alistar los archivos
-2. git commit permite guardar los archivos y siempre debo agregar un mensaje
+1. git add . permite alistar los archivos
+2. git commit -m "aqui va el mensaje" permite guardar los archivos y siempre debo agregar un mensaje
 3. git push 
